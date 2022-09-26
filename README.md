@@ -1,2 +1,11 @@
-# postgres_tutorial
-leaning repo for postgres app
+# PERN
+
+Repo for learning the PERN stack from freeCodeCamp.org
+
+# Server
+
+Run server with nodemon using:
+
+```
+nodemon .\server\index.js
+```
